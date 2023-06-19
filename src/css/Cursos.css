@@ -1,0 +1,13 @@
+.cursos-list{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.curso-item{
+    background-color: black;
+    width: 30%;
+    margin: 5px;
+}
+.curso-image{
+    width: 100%;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id":1000,
+        "urlCourse":"ingles-a1",
+        "banner":"src/img/Ingles Basico A1.webp",
+        "title":"Ingles Basico A1",
+        "description":"Aprende a comunicarte en situaciones cotidianas sencillas y adquiere vocabulario basico para dar informacion personal y hacer preguntas cortas."
+    },
+    {
+        "id":1001,
+        "urlCourse":"ingles-a2",
+        "banner":"src/img/Ingles Basico A2.webp",
+        "title":"Ingles Basico A2",
+        "description":"Desarrolla conpetencias gramaticales basicas para entablar tus primeras conversaciones en ingles y comprende el uso de frases y expresiones comunes."
+    },
+    {
+        "id":1002,
+        "urlCourse":"ingles-b1",
+        "banner":"src/img/Ingles Intermedio B1.webp",
+        "title":"Ingles Intermedio B1",
+        "description":"Aprende a desenvolverte en conversaciones habituales dando opiniones y describiendo situaciones cotidianas, hechos pasados y planes."
+    },
+    {
+        "id":1003,
+        "urlCourse":"ingles-b2",
+        "banner":"src/img/Ingles Intermedio B2.webp",
+        "title":"Ingles Intermedio B2",
+        "description":"Adquiere la capacidad de comunicacion de manera natural, autonoma y fluida en ingles, participando de conversaciones complejas y espontaneas."
+    },
+    {
+        "id":1004,
+        "urlCourse":"ingles-c1",
+        "banner":"src/img/Ingles Avanzado C1.webp",
+        "title":"Ingles Avanzado C1",
+        "description":"Aprende a entablar conversaciones sociales, academicas y profesionales con fluidez, haciendo uso de lenguaje diverso, natural y dinamico."
+    },
+    {
+        "id":1005,
+        "urlCourse":"ingles-c2",
+        "banner":"src/img/Ingles Avanzado C2.webp",
+        "title":"Ingles Avanzado C2",
+        "description":"Adquiere fluidez en tus conversaciones, y la habilidad de comunicarte de forma natural con hablantes avanzados transmitinedo ideas precisas."
+    }
+]
